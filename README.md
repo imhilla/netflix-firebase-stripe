@@ -1,1 +1,1 @@
-# netflix-firebase-stripe-
+# netflix-firebase-stripe
