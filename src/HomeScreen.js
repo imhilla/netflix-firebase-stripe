@@ -5,7 +5,8 @@ import "../src/HomeScreen.css"
 function HomeScreen() {
   return (
     <div className="homeScreem">
-       <Nav />
+      <Nav />
+  
     </div>
   )
 }
