@@ -29,7 +29,7 @@ function Nav() {
           className="nav_avatar"
           src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png" alt="logo" />
       </div>
-    </div >
+    </div>
   )
 }
 
