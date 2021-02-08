@@ -1,3 +1,6 @@
 .banner {
+  position: relative;
+  color: "white";
   height: 448px;
+  object-fit: contain;
 }
