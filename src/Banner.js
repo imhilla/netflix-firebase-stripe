@@ -13,7 +13,13 @@ function Banner() {
 
       <div className="banner_contents">
         <h1 className="banner_title">Movie name</h1>
+        <div className="banner_buttons">
+          <button className="banner_button">Play</button>
+          <button className="banner_button">My List</button>
+        </div>
+        <h1 className="banner_description">This is a banner description</h1>
       </div>
+      <div className="banner_fadeButton" />
     </header>
   )
 }
